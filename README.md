@@ -99,7 +99,7 @@ Buy-Fashion is not just a platform, it's a footware journey waiting to be writte
    ```bash
    git clone https://github.com/bipinsinghbhat/C-J-Clark-Clone.git
 
- ## Frontend Setup
+ ## Project Setup
  
 1. **Open a new terminal and navigate back to the project root (`whimlash-machine-475`).**
 
