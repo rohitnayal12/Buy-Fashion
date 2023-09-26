@@ -1,9 +1,11 @@
 # whimlash-machine-475
-https://github.com/rohitnayal12/Buy-Fashion/blob/main/images/Logo.jpg?raw=true
+
 
 <img src="https://github.com/rohitnayal12/Buy-Fashion/blob/main/images/Logo.jpg?raw=true" alt="Logo" width="200" height="200">
 
 # Buy-Fashion.com
+
+- **Live preview** : fastidious-melba-d436e9.netlify.app/
 
 ## Discover the experience of Buy-Fashion: Your Gateway to the Ultimate Footware Experience
 
@@ -27,22 +29,20 @@ Buy-Fashion is not just a footware platform, it's your portal to a world of limi
 
 Buy-Fashion is not just a platform, it's a footware journey waiting to be written by you. Discover the experience of Buy-Fashion today and let the new footwares come to your places.
 
-## For Deploying
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-
-
-- Live preview : fastidious-melba-d436e9.netlify.app/
-
-
 # Different Pages of Website
 ### Homepage
-![1](https://github.com/WDwithSuraj/shocking-grade-9442/assets/119648587/2bf5132e-c63f-4888-a817-f9fafd5ae748)
+![Buy-Fashion-home](https://github.com/rohitnayal12/Buy-Fashion/assets/119488668/9deddfe3-06a0-4bd5-a6ec-84b2ebf8adf1)
 
-### Player Page
-![2](https://github.com/WDwithSuraj/shocking-grade-9442/assets/119648587/f9a90383-f003-466b-9bd1-d49466c6b412)
 
-### Admin Page
-![3](https://github.com/WDwithSuraj/shocking-grade-9442/assets/119648587/104c3f4e-f496-4151-a858-3ec107a1455f)
+### Men Shoe Page
+![Buy-Fashion-Men](https://github.com/rohitnayal12/Buy-Fashion/assets/119488668/d3be95bd-a2a9-4ce9-a5bc-96eb50a7a2f7)
+
+
+### Women Shoe Page
+![Buy-Fashion-Woman](https://github.com/rohitnayal12/Buy-Fashion/assets/119488668/cb5cac3c-0a2d-4c1a-9b0a-da4e0b857117)
+
+### Cart Page
+![Buy-Fashion-Cart](https://github.com/rohitnayal12/Buy-Fashion/assets/119488668/e17efd3b-d60f-4326-9a4d-ebc22f6a1b7c)
 
 
 ## Table of Contents
@@ -106,7 +106,6 @@ Buy-Fashion is not just a platform, it's a footware journey waiting to be writte
 2. **Navigate to the frontend directory:**
 
    ```bash
-   cd frontend
    npm install
    go to index.html
    go Live
